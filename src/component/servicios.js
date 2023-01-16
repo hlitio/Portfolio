@@ -48,7 +48,7 @@ function Servicios(){
         </div>
         <div className="fila">
             <div className="servicio">
-                <span class="icono"><FontAwesomeIcon icon={faDatabase}/></span>
+                <span className="icono"><FontAwesomeIcon icon={faDatabase}/></span>
                 <h4>Desarrollo de Software</h4>
                 <hr/>
                 <ul className="servicios-tag">

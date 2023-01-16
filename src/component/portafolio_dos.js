@@ -12,7 +12,7 @@ function Portafolio_2(){
             <div className="proyecto">
                 <div className="overlay"></div>
                 <img src={henry1} alt=""/>
-                <div class="info">
+                <div className="info">
                     <h4>Proyecto Individual</h4>
                     <p>13/02/2023 - 03/03/2023</p>
                 </div>

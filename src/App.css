@@ -339,33 +339,6 @@ html {
     margin: 10px 0px;
 }
 
-.contenedor-skills .skill .barra .barra-progreso1 {
-    background-color: #fff;
-    width: 95%;
-    height: 6px;
-    animation: progreso1 2s forwards;
-}
-
-.contenedor-skills .skill .barra .barra-progreso2 {
-    background-color: #fff;
-    width: 90%;
-    height: 6px;
-    animation: progreso2 2s forwards;
-}
-
-.contenedor-skills .skill .barra .barra-progreso3 {
-    background-color: #fff;
-    width: 90%;
-    height: 6px;
-    animation: progreso3 2s forwards;
-}
-
-.contenedor-skills .skill .barra .barra-progreso4 {
-    background-color: #fff;
-    width: 85%;
-    height: 6px;
-    animation: progreso4 2s forwards;
-}
 
 @keyframes progreso1 {
     0% {
