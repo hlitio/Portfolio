@@ -1,0 +1,44 @@
+[
+    {
+        "imagen": "/img/proyecto1.jpg",
+        "imagen_alt":  "proyecto1.html",
+        "titulo": "Sistema de Gestión de Entidades de Salud",
+        "subtitulo": "SGH",
+        "enlace": ""
+    },
+    {
+        "imagen": "/img/proyecto2.jpg",
+        "imagen_alt":  "proyecto2.html",
+        "titulo": "Progreso de nivel de carrera y toma de decisiones.",
+        "subtitulo": "SMART UNIVERSITY",
+        "enlace": ""
+    },
+    {
+        "imagen": "/img/proyecto3.jpg",
+        "imagen_alt":  "proyecto3.html",
+        "titulo": "Prevee el nivel de enojo de mascotas para evitar accidentes.",
+        "subtitulo": "SAVE YOUR DOG",
+        "enlace": ""
+    },
+    {
+        "imagen": "/img/proyecto4.jpg",
+        "imagen_alt":  "proyecto4.html",
+        "titulo": "Evaluador de puntos + y - de actitudes.",
+        "subtitulo": "++",
+        "enlace": ""
+    },
+    {
+        "imagen": "/img/proyecto1.jpg",
+        "imagen_alt":  "proyecto5.html",
+        "titulo": "Proyecto en construcción",
+        "subtitulo": "WARNING",
+        "enlace": ""
+    },
+    {
+        "imagen": "/img/proyecto-en-construccion.jpg",
+        "imagen_alt":  "proyecto6.html",
+        "titulo": "Proyecto en construcción",
+        "subtitulo": "WARNING",
+        "enlace": ""
+    }
+]

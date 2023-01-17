@@ -14,7 +14,7 @@ html {
 /* **************************/
 
 #inicio {
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/fondo-skills-2.jpg");
+    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("../public/img/fondo-skills-2.jpg");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -304,7 +304,7 @@ html {
 /* *********************/
 
 .contenedor-skills {
-    background: linear-gradient( #eb5a5acc, rgba(33, 16, 16, 0.8)), url("img/fondo-inicio-2.jpg");
+    background: linear-gradient( #eb5a5acc, rgba(33, 16, 16, 0.8)), url("../public/img/fondo-inicio-2.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -380,6 +380,7 @@ html {
 /* *********************/
 
 #portfolio {
+  
     max-width: 1100px;
     padding: 100px 0;
     margin: auto;
@@ -397,14 +398,18 @@ html {
 
 #portfolio .fila {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
     justify-content: space-between;
     margin: 30px 0;
 }
 
 #portfolio .fila .proyecto {
+    width: 30%;
     max-width: 450px;
     border: 1px solid #000;
-    margin: 0 10px;
+    margin: 10px 10px;
     position: relative;
     overflow: hidden;
 }
