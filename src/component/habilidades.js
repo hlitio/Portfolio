@@ -4,6 +4,7 @@ import { useInView } from 'react-intersection-observer';
 
 
 
+
 function Habilidades(){
     const { ref, inView, entry } = useInView({
         /* Optional options */
